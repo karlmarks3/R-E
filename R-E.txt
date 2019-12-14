@@ -16,6 +16,6 @@ Added : strings 1 - 22
 Added : strings 1 - 24
 ******************************************
 Section E
-
 2+2=5
+Egoriy! You MUST write something there!
 ******************************************
