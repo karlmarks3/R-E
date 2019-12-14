@@ -16,6 +16,6 @@ Added : strings 1 - 22
 Added : strings 1 - 24
 ******************************************
 Section E
-
+Egoriy! You MUST write something there!
 // This section is for changes made by developer E only
 ******************************************
