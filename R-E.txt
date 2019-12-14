@@ -13,7 +13,7 @@ Section R (Roma)
 // This section is for changes made by developer R only
 ******************************************
 Added : strings 1 - 22
-
+tkulkiululi78i
 ******************************************
 Section E
 
