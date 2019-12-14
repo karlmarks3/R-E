@@ -17,5 +17,5 @@ Added : strings 1 - 24
 ******************************************
 Section E
 
-// This section is for changes made by developer E only
+2+2=5
 ******************************************
